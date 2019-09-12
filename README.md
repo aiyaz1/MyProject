@@ -19,5 +19,5 @@ Git Basics Commands
 
 10)git log // It shows all the commit with shows all the commit with the unique hashnumber
 
-11)git clone <Git url> <path to clone> // If we want to cone the remote repo to our local repository
+11) git clone <Git url> <path to clone> // If we want to cone the remote repo to our local repository
 
