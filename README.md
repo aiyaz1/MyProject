@@ -24,3 +24,10 @@ Git Basics Commands
 12) git pull origin master // It pulls all the latest to your local its always good to take all the latest before pushing the chasnges
 
 13) git push origin master // push your changes to remote
+
+14) git branch <branch-name> //Create a branch with the branch name we have specifed
+
+15) git checkout <branch-name> //It will switch you to the branch which you have specified
+
+
+//changes to the test branch
