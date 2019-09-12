@@ -19,5 +19,8 @@ Git Basics Commands
 
 10)git log // It shows all the commit with shows all the commit with the unique hashnumber
 
-11) git clone <Git url> <path to clone> // If we want to cone the remote repo to our local repository
+11) git clone <Git url> <path to clone> // If we want to clone the remote repo to our local repository
 
+12) git pull origin master // It pulls all the latest to your local its always good to take all the latest before pushing the chasnges
+
+13) git push origin master // push your changes to remote
